@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="V_graph.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="false"
+     inkscape:zoom="0.69748928"
+     inkscape:cx="279.57419"
+     inkscape:cy="339.79017"
+     inkscape:window-width="1440"
+     inkscape:window-height="789"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g13-2" />
+  <defs
+     id="defs1">
+    <rect
+       x="50.226852"
+       y="97.289808"
+       width="107.17698"
+       height="33.616397"
+       id="rect21" />
+    <rect
+       x="110.81443"
+       y="-204.8088"
+       width="267.14192"
+       height="134.56037"
+       id="rect20" />
+    <rect
+       x="0.98941451"
+       y="-204.8088"
+       width="347.28449"
+       height="186.99934"
+       id="rect19" />
+    <rect
+       x="273.0784"
+       y="-176.11578"
+       width="125.65564"
+       height="61.3437"
+       id="rect18" />
+    <rect
+       x="41.555409"
+       y="-180.07344"
+       width="497.6755"
+       height="222.61826"
+       id="rect16" />
+    <rect
+       x="19.78829"
+       y="81.13199"
+       width="142.47569"
+       height="61.3437"
+       id="rect15" />
+    <marker
+       style="overflow:visible"
+       id="marker15"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path14" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker14"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path9-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path9-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-48"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path9-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-6-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path9-7-1" />
+    </marker>
+    <rect
+       x="110.81443"
+       y="-204.80881"
+       width="267.14191"
+       height="134.56036"
+       id="rect20-7" />
+    <rect
+       x="110.81443"
+       y="-204.80881"
+       width="267.14191"
+       height="134.56036"
+       id="rect20-7-7" />
+    <rect
+       x="110.81443"
+       y="-204.80881"
+       width="267.14191"
+       height="134.56036"
+       id="rect20-7-7-9" />
+    <rect
+       x="110.81443"
+       y="-204.80881"
+       width="267.14191"
+       height="134.56036"
+       id="rect20-7-7-7" />
+    <rect
+       x="110.81443"
+       y="-204.80881"
+       width="267.14191"
+       height="134.56036"
+       id="rect20-7-7-9-1" />
+    <rect
+       x="110.81443"
+       y="-204.80881"
+       width="267.14191"
+       height="134.56036"
+       id="rect20-7-7-9-1-2" />
+    <rect
+       x="110.81443"
+       y="-204.80881"
+       width="267.14191"
+       height="134.56036"
+       id="rect20-7-7-9-1-2-7" />
+    <rect
+       x="110.81443"
+       y="-204.80881"
+       width="267.14191"
+       height="134.56036"
+       id="rect20-7-7-9-1-2-7-9" />
+    <rect
+       x="110.81443"
+       y="-204.80881"
+       width="267.14191"
+       height="134.56036"
+       id="rect20-7-7-9-1-2-7-9-1" />
+  </defs>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g14-1"
+       transform="matrix(-1,0,0,1,219.57829,-4.7262907e-4)">
+      <g
+         id="g13-2"
+         transform="translate(71.732912,-16.699726)">
+        <g
+           id="g15"
+           transform="matrix(0.9850875,0,0,0.77252682,1.0605519,10.382715)">
+          <g
+             id="g14"
+             transform="matrix(-1,0,0,1,163.49374,16.700199)">
+            <rect
+               style="fill:none;fill-opacity:1;stroke:#030303;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:1"
+               id="rect1"
+               width="39.03754"
+               height="22.949339"
+               x="20.871756"
+               y="19.400473" />
+            <path
+               style="fill:none;fill-opacity:1;stroke:#030303;stroke-width:0.636;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+               d="M 36.186591,42.340476 C 48.060586,60.284474 48.012707,60.21212 48.012707,60.21212 l 0.04788,0.07236"
+               id="path7" />
+            <rect
+               style="fill:none;fill-opacity:1;stroke:#030303;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:1"
+               id="rect1-7"
+               width="39.03754"
+               height="22.949339"
+               x="34.311092"
+               y="63.112106" />
+            <path
+               style="fill:none;fill-opacity:1;stroke:#030303;stroke-width:0.636;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-6)"
+               d="m 55.535045,86.05211 c 11.873995,17.944 11.826116,17.87164 11.826116,17.87164 l 0.04788,0.0724"
+               id="path7-87" />
+            <g
+               id="g11"
+               transform="translate(0.37953922,0.37953922)">
+              <g
+                 id="g12"
+                 transform="translate(24.29051,-6.0726275)">
+                <rect
+                   style="fill:none;fill-opacity:1;stroke:#030303;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:1"
+                   id="rect1-5"
+                   width="39.03754"
+                   height="22.949339"
+                   x="29.280268"
+                   y="113.00758" />
+                <path
+                   style="fill:none;fill-opacity:1;stroke:#030303;stroke-width:0.636;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-4)"
+                   d="m 47.219578,135.94758 c 11.874,17.94399 11.82612,17.87164 11.82612,17.87164 l 0.0479,0.0724"
+                   id="path7-82" />
+              </g>
+            </g>
+            <g
+               id="g13"
+               transform="translate(71.732912,-16.699726)">
+              <rect
+                 style="fill:none;fill-opacity:1;stroke:#030303;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect1-3"
+                 width="39.03754"
+                 height="22.949339"
+                 x="2.1520827"
+                 y="166.98798" />
+              <path
+                 style="fill:none;fill-opacity:1;stroke:#030303;stroke-width:0.636;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-48)"
+                 d="m 20.091398,189.92798 c 11.873995,17.94399 11.826116,17.87164 11.826116,17.87164 l 0.04788,0.0724"
+                 id="path7-0" />
+            </g>
+          </g>
+          <rect
+             style="fill:none;fill-opacity:1;stroke:#030303;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1-8"
+             width="39.03754"
+             height="22.949339"
+             x="20.871756"
+             y="19.400473"
+             transform="translate(-71.732912,16.699726)" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#030303;stroke-width:0.636;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow-6-7)"
+             d="m 36.559318,45.322294 c 11.873995,17.943998 11.826116,17.871644 11.826116,17.871644 l 0.04788,0.07236"
+             id="path7-7"
+             transform="translate(-71.732912,16.699726)" />
+          <rect
+             style="fill:none;fill-opacity:1;stroke:#030303;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1-7-6"
+             width="39.03754"
+             height="22.949339"
+             x="34.311092"
+             y="63.112106"
+             transform="translate(-71.732912,16.699726)" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#030303;stroke-width:0.636;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#RoundedArrow-6-7)"
+             d="m 56.653227,89.033928 c 11.873995,17.944002 11.826116,17.871642 11.826116,17.871642 l 0.04788,0.0724"
+             id="path7-87-0"
+             transform="translate(-71.732912,16.699726)" />
+          <g
+             id="g11-0"
+             transform="translate(-71.353373,17.079265)">
+            <g
+               id="g12-9"
+               transform="translate(24.29051,-6.0726275)">
+              <rect
+                 style="fill:none;fill-opacity:1;stroke:#030303;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:1"
+                 id="rect1-5-5"
+                 width="39.03754"
+                 height="22.949339"
+                 x="29.280268"
+                 y="113.00758" />
+              <path
+                 style="fill:none;fill-opacity:1;stroke:#030303;stroke-width:0.636;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker15)"
+                 d="m 49.863462,138.21874 c 11.874,17.94399 11.82612,17.87164 11.82612,17.87164 l 0.0479,0.0724"
+                 id="path7-82-6" />
+            </g>
+          </g>
+          <rect
+             style="fill:none;fill-opacity:1;stroke:#030303;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1-3-8"
+             width="39.03754"
+             height="22.949339"
+             x="2.1520827"
+             y="166.98798" />
+          <rect
+             style="fill:none;fill-opacity:1;stroke:#030303;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1-3-8-4"
+             width="39.03754"
+             height="22.949339"
+             x="26.110853"
+             y="211.38269" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#030303;stroke-width:0.636;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker14)"
+             d="m 21.20958,192.9098 c 11.873995,17.94399 11.826116,17.87164 11.826116,17.87164 l 0.04788,0.0724"
+             id="path7-0-5" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="matrix(-0.26458333,0,0,0.26458333,147.84538,16.700199)"
+           id="text15"
+           style="font-size:37.3333px;line-height:1.9;font-family:did;-inkscape-font-specification:did;text-align:center;letter-spacing:5.45px;word-spacing:0.05px;white-space:pre;fill:none;fill-opacity:1;stroke:#030303;stroke-width:2.40378;stroke-dasharray:none;stroke-opacity:1;shape-inside:url(#rect15)"><tspan
+             x="19.789062"
+             y="188.67019"
+             id="tspan5"><tspan
+               dx="0 25.520809 23.624981 22.421856 10.244779 22.093731 19.614574 22.371841 13.175 23.260387 22.65884 19.614574 10.244763 22.421856 23.260418 22.276012 21.947887 10.244794 22.239544"
+               id="tspan4">Analýza požiadaviek</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(-0.26458333,0,0,0.26458333,147.84538,16.700199)"
+           id="text18"
+           style="fill:none;stroke:#030303;stroke-width:2.40377953;word-spacing:0.05px;letter-spacing:5.45000015px;-inkscape-font-specification:'Noto Sans Bamum';font-family:'Noto Sans Bamum';font-size:37.33333333px;line-height:0.6;text-align:center;fill-opacity:1;stroke-opacity:1;stroke-dasharray:none;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;white-space:pre;shape-inside:url(#rect18)" />
+        <text
+           xml:space="preserve"
+           transform="matrix(-0.26458333,0,0,0.26458333,147.84538,16.700199)"
+           id="text19"
+           style="fill:none;stroke:#030303;stroke-width:2.40377953;word-spacing:0.05px;letter-spacing:5.45000015px;-inkscape-font-specification:Monaco;font-family:Monaco;font-size:37.33333333px;line-height:0.6;text-align:center;fill-opacity:1;stroke-opacity:1;stroke-dasharray:none;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;white-space:pre;shape-inside:url(#rect19)" />
+        <text
+           xml:space="preserve"
+           transform="matrix(-0.16752884,0,0,0.26235986,163.42858,91.833141)"
+           id="text20"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.4079px;line-height:1.2;font-family:Monaco;-inkscape-font-specification:Monaco;text-align:center;letter-spacing:6.37324px;word-spacing:7.9003px;white-space:pre;shape-inside:url(#rect20);shape-padding:6.02081;fill:none;fill-opacity:1;stroke:#030303;stroke-width:2.40378;stroke-dasharray:none;stroke-opacity:1"
+           x="74.846352"
+           y="0"><tspan
+             x="176.10143"
+             y="-177.72"
+             id="tspan7"><tspan
+               dx="0 0 0 0 0 0 0 -7.9002929"
+               id="tspan6">Analýza </tspan></tspan><tspan
+             x="135.2609"
+             y="-149.63052"
+             id="tspan8">požiadaviek</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(-0.16752884,0,0,0.26235986,149.99255,125.73747)"
+           id="text20-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.4079px;line-height:1.2;font-family:Monaco;-inkscape-font-specification:Monaco;text-align:center;letter-spacing:6.37324px;word-spacing:7.9003px;white-space:pre;shape-inside:url(#rect20-7);shape-padding:6.02081;fill:none;fill-opacity:1;stroke:#030303;stroke-width:2.40378;stroke-dasharray:none;stroke-opacity:1"
+           x="74.846352"
+           y="0"><tspan
+             x="155.68117"
+             y="-177.72"
+             id="tspan10"><tspan
+               dx="0 0 0 0 0 0 0 0 0 -7.9002929"
+               id="tspan9">Systémový </tspan></tspan><tspan
+             x="196.5217"
+             y="-149.63052"
+             id="tspan11">návrh</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(-0.16752884,0,0,0.26235986,130.8595,159.89498)"
+           id="text20-0-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.4079px;line-height:1.2;font-family:Monaco;-inkscape-font-specification:Monaco;text-align:center;letter-spacing:6.37324px;word-spacing:7.9003px;white-space:pre;shape-padding:6.02081;fill:none;fill-opacity:1;stroke:#030303;stroke-width:2.40378;stroke-dasharray:none;stroke-opacity:1;shape-inside:url(#rect20-7-7)"
+           x="74.846352"
+           y="0"><tspan
+             x="165.8913"
+             y="-177.72"
+             id="tspan13"><tspan
+               dx="0 0 0 0 0 0 0 0 -7.9003081"
+               id="tspan12">Detailný </tspan></tspan><tspan
+             x="196.5217"
+             y="-149.63052"
+             id="tspan14">návrh</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(-0.16752884,0,0,0.26235986,87.245947,228.60406)"
+           id="text20-0-0-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.1924px;line-height:1.2;font-family:Monaco;-inkscape-font-specification:Monaco;text-align:center;letter-spacing:5.11121px;word-spacing:7.9003px;white-space:pre;shape-inside:url(#rect20-7-7-9);shape-padding:6.02081;fill:none;fill-opacity:1;stroke:#030303;stroke-width:2.40378;stroke-dasharray:none;stroke-opacity:1"
+           x="74.846352"
+           y="0"><tspan
+             x="134.95531"
+             y="-180.61395"
+             id="tspan16"><tspan
+               dx="0 0 0 0 0 0 0 0 0 0 0 0 0 -7.9002991"
+               id="tspan15">Programovanie
+</tspan></tspan><tspan
+             x="195.25548"
+             y="-156.38307"
+             id="tspan17">návrhu</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(-0.16752884,0,0,0.26235986,110.9156,194.52691)"
+           id="text20-0-0-7-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.1924px;line-height:1.2;font-family:Monaco;-inkscape-font-specification:Monaco;text-align:center;letter-spacing:5.11121px;word-spacing:7.9003px;white-space:pre;shape-inside:url(#rect20-7-7-9-1);shape-padding:6.02081;fill:none;fill-opacity:1;stroke:#030303;stroke-width:2.40378;stroke-dasharray:none;stroke-opacity:1"
+           x="74.846352"
+           y="0"><tspan
+             x="143.56962"
+             y="-180.61395"
+             id="tspan19"><tspan
+               dx="0 0 0 0 0 0 0 0 0 0 0 0 -7.9002991"
+               id="tspan18">Špecifikácie
+</tspan></tspan><tspan
+             x="195.25548"
+             y="-156.38307"
+             id="tspan20">návrhu</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(-0.16752884,0,0,0.26235986,63.520604,194.96962)"
+           id="text20-0-0-7-0-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.1924px;line-height:1.2;font-family:Monaco;-inkscape-font-specification:Monaco;text-align:center;letter-spacing:5.11121px;word-spacing:7.9003px;white-space:pre;shape-inside:url(#rect20-7-7-9-1-2);shape-padding:6.02081;fill:none;fill-opacity:1;stroke:#030303;stroke-width:2.40378;stroke-dasharray:none;stroke-opacity:1"
+           x="74.846352"
+           y="0"><tspan
+             x="160.79824"
+             y="-180.61395"
+             id="tspan23"><tspan
+               dx="0 0 0 0 0 0 0 0 0 0 -7.9002991"
+               id="tspan22">Jednoduché
+</tspan></tspan><tspan
+             x="160.79824"
+             y="-156.38307"
+             id="tspan24">testovanie</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(-0.16752884,0,0,0.26235986,43.821889,161.32142)"
+           id="text20-0-0-7-0-8-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.1924px;line-height:1.2;font-family:Monaco;-inkscape-font-specification:Monaco;text-align:center;letter-spacing:5.11121px;word-spacing:7.9003px;white-space:pre;shape-inside:url(#rect20-7-7-9-1-2-7);shape-padding:6.02081;fill:none;fill-opacity:1;stroke:#030303;stroke-width:2.40378;stroke-dasharray:none;stroke-opacity:1"
+           x="74.846352"
+           y="0"><tspan
+             x="160.79824"
+             y="-180.61395"
+             id="tspan26"><tspan
+               dx="0 0 0 0 0 0 0 0 0 0 -7.9002991"
+               id="tspan25">Integračné
+</tspan></tspan><tspan
+             x="160.79824"
+             y="-156.38307"
+             id="tspan27">testovanie</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(-0.16752884,0,0,0.26235986,23.819207,127.03035)"
+           id="text20-0-0-7-0-8-5-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.1924px;line-height:1.2;font-family:Monaco;-inkscape-font-specification:Monaco;text-align:center;letter-spacing:5.11121px;word-spacing:7.9003px;white-space:pre;shape-inside:url(#rect20-7-7-9-1-2-7-9);shape-padding:6.02081;fill:none;fill-opacity:1;stroke:#030303;stroke-width:2.40378;stroke-dasharray:none;stroke-opacity:1"
+           x="74.846352"
+           y="0"><tspan
+             x="169.41255"
+             y="-180.61395"
+             id="tspan29"><tspan
+               dx="0 0 0 0 0 0 0 0 0 -7.9003143"
+               id="tspan28">Systémové
+</tspan></tspan><tspan
+             x="160.79824"
+             y="-156.38307"
+             id="tspan30">testovanie</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(-0.17790483,0,0,0.26199163,14.033952,92.854253)"
+           id="text20-0-0-7-0-8-5-6-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.1924px;line-height:1.2;font-family:Monaco;-inkscape-font-specification:Monaco;text-align:center;letter-spacing:5.11121px;word-spacing:7.9003px;white-space:pre;shape-inside:url(#rect20-7-7-9-1-2-7-9-1);shape-padding:6.02081;fill:none;fill-opacity:1;stroke:#030303;stroke-width:2.40378;stroke-dasharray:none;stroke-opacity:1"
+           x="74.846352"
+           y="0"><tspan
+             x="169.41255"
+             y="-180.61395"
+             id="tspan32"><tspan
+               dx="0 0 0 0 0 0 0 0 0 -7.9003143"
+               id="tspan31">Validácia </tspan></tspan><tspan
+             x="169.41255"
+             y="-156.38307"
+             id="tspan33">zákazníka</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(-0.26458333,0,0,0.26458333,147.84538,16.700199)"
+           id="text21"
+           style="fill:none;stroke:#030303;stroke-width:2.40377953;word-spacing:6.3px;letter-spacing:8.84px;-inkscape-font-specification:'.Hiragino Sans GB Interface';font-family:'.Hiragino Sans GB Interface';font-size:22.4px;line-height:1.2;text-align:center;fill-opacity:1;stroke-opacity:1;stroke-dasharray:none;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect21)" />
+      </g>
+    </g>
+  </g>
+</svg>
